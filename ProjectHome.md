@@ -1,0 +1,1 @@
+The application defines an interface to store and retrieve 3D models. Also 3D models can be easily manipulated.
